@@ -13,14 +13,7 @@ description: "「离开世界之前 一切都是过程」"
     gtag('config', 'G-SLWZGHQ8FL');
   </script>
 
-  <!-- 网站标题、元数据等 -->
-  <title>{{ page.title }}{% if page.title %} - {% endif %}{{ site.title }}</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{{ page.description | strip_html | truncate: 160 }}">
-  <meta name="author" content="{{ site.author }}">
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  {% feed_meta %}
+
 </head>
 
 {% for post in paginator.posts %}
