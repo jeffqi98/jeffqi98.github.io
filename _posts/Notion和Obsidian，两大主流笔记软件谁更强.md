@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notion和Obsidian，两大主流笔记软件谁更强"
-subtitle: '"Which is stronger between Notion and Obsidian, the two mainstream note-taking software?"'
+subtitle: '"Which is better between Notion and Obsidian, the two mainstream note-taking software?"'
 author: "chatGPT"
 header-style: text
 tags:
