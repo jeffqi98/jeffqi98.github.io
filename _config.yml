@@ -19,8 +19,8 @@ RSS: false
 #linkedin_username:  firstname-lastname-idxxxx
 twitter_username: jeffqi
 facebook_username:  jeffqi
-instagram_username:_jeffqi
-youtube_username:_earthporn
+instagram_username: _jeffqi
+youtube_username: _earthporn
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
