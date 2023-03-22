@@ -19,14 +19,6 @@ RSS: false
 twitter_username: jeffqi
 facebook_username:  jeffqi
 #linkedin_username:  firstname-lastname-idxxxx
-# Social media links
-social:
-  - title: Instagram
-    url: https://www.instagram.com/_jeffqi/
-    icon: fab fa-instagram
-  - title: YouTube
-    url: https://www.youtube.com/user/your_earthporn/
-    icon: fab fa-youtube
 
 
 # Build settings
