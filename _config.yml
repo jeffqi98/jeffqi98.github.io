@@ -5,7 +5,7 @@ header-img: img/home1.jpg
 email: jeffqijp@gmail.com
 description: "这里是 @jeffrey 的个人博客，与你一起发现更大的世界"
 keyword: "JeffreyChi, jeff, jeffqi, jeffrey, jeff的博客, Jeffrey Blog, 博客, 个人网站, 互联网, Web"
-url: "https://jeffqi98.github.io" # your host, for absolute URL
+url: "https://jeffqi.org" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "G-SLWZGHQ8FL" # Format: UA-xxxxxx-xx
-ga_domain: jeffqi98.github.io
+ga_track_id: "G-RLW3TPTLVC" # Format: UA-xxxxxx-xx
+ga_domain: jeffqi.org
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
