@@ -10,17 +10,7 @@ Hi，我是Jeffrey。一个刚毕业没多久的社畜，曾经学过一点网�
 
 如果你觉得我的文章对你有帮助或者你想赞助我，可以通过以下方式：
 
-#donateBox #AliPay {
-  background-image: img/Alipay.jpeg;
-}
-#donateBox #WeChat {
-  background-image: img/Wechat.jpeg;
-}
-#QRBox {
-  top: 0;
-  left: 0;
-  z-index: 1;
-  background-color: rgba(255,255,255,0.3);
-  display: none;
-  perspective: 400px;
-}
+**Alipay**
+<img src="Alipay.jpeg" width="150" height="150">
+**Wechat**
+<img src="Wechat.jpeg" width="150" height="150">
