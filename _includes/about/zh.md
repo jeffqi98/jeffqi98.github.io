@@ -10,7 +10,11 @@ Hi，我是Jeffrey。一个刚毕业没多久的社畜，曾经学过一点网�
 
 如果你觉得我的文章对你有帮助或者你想赞助我，可以通过以下方式：
 
-**Alipay**![Alipay](https://user-images.githubusercontent.com/125366043/230581545-13499de6-688e-4952-ae77-876853148004.JPG)**Wechat**![Wechat](https://user-images.githubusercontent.com/125366043/230581589-0be118d2-a413-4dd1-ac51-7d0b12bce7ae.JPG)
+**Alipay**
+![Alipay](https://user-images.githubusercontent.com/125366043/230581545-13499de6-688e-4952-ae77-876853148004.JPG)
+
+**Wechat**
+![Wechat](https://user-images.githubusercontent.com/125366043/230581589-0be118d2-a413-4dd1-ac51-7d0b12bce7ae.JPG)
 
 
 
