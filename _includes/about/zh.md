@@ -11,8 +11,9 @@ Hi，我是Jeffrey。一个刚毕业没多久的社畜，曾经学过一点网�
 如果你觉得我的文章对你有帮助或者你想赞助我，可以通过以下方式：
 
 **Alipay**
-<img src="img/home1.jpg" width="150" height="150">
+<img src="![Alipay](https://user-images.githubusercontent.com/125366043/230574116-19c63994-ec5b-428f-be04-819b6ab8d823.jpeg)" width="150" height="150">
 **Wechat**
 <img src="img/Wechat.jpeg" width="150" height="150">
 
-![](img/Wechat.jpeg =150x150)
+
+
