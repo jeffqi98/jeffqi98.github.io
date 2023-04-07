@@ -13,7 +13,7 @@ Hi，我是Jeffrey。一个刚毕业没多久的社畜，曾经学过一点网�
 **Alipay**
 <img src="img/Alipay.jpeg" width="150" height="154">
 **Wechat**
-<img src="img/Wechat.jpeg" width="150" height="150">
+<img src="img/Wechat.jpeg" width="621" height="591">
 
 
 
