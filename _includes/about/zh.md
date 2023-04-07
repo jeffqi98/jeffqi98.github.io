@@ -13,4 +13,6 @@ Hi，我是Jeffrey。一个刚毕业没多久的社畜，曾经学过一点网�
 **Alipay**
 <img src="img/home1.jpg" width="150" height="150">
 **Wechat**
-<img src="img/Wechat.jpeg" width="591" height="621">
+<img src="img/Wechat.jpeg" width="150" height="150">
+
+![](img/Wechat.jpeg =150x150)
