@@ -12,15 +12,15 @@ baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 future: true
 
 # SNS settings
-RSS: true
+RSS: false
 #weibo_username: id
 #zhihu_username: id
 #github_username: id
 #linkedin_username:  firstname-lastname-idxxxx
 twitter_username: Jeffrey02264985
-youtube_username: earth_f
 #facebook_username:  jeffqi
 #instagram_username: jeffqi
+youtube_username: earth_f
 
 
 # Build settings
