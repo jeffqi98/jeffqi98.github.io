@@ -1,6 +1,23 @@
-Hi, I’m **Jeffrey**. A recent graduate who has been working hard for a while. I have some knowledge of web front-end and iOS development (but I have almost forgotten them by now), but **photography** is my true passion. I wish these two could be my hobbies rather than my jobs. In the current work environment, I feel like my interest and enthusiasm are being worn away by the demands of work, and I’m not clever enough to break the rules. So even if it means losing some professional skills due to not engaging in related fields for a long time, I would rather choose this way than sacrificing my personal passion and energy for the sake of efficiency and industry experience.
+Hi, I'm **Jeffrey**. A nature landscape photographer who enjoys hiking 🏃🏻‍➡️. I use words to record my journey, which adds a lot of fun to my plain life. Hiking has brought me a lot of joy. I have seen many sceneries and met many interesting people during my hiking trips. In the fast-paced urban life, I return to the countryside to seek a comfortable and leisurely lifestyle, so that I don't feel too stressed.
 
-Nowadays, I believe that we can change our lifestyle and work mode to some extent, without being constrained by tradition. I also believe that life should not be only about stress and sadness. Life should be the most romantic 24fps. Someday, you will meet the person you have always wanted to see, you will go to the place you have always wanted to go, on a sunny afternoon, the breeze will blow, and when you look back at your past self, you will find that “he” has always been shining.
+Compared to my established life, every hike is full of unknowns, unknown people, unknown shops, and unknown sceneries, which can bring more freshness to my life.
+
+While hiking, I use a camera 📷 and words to record every journey.
+
+Hiking has allowed me to do many things I wouldn't normally do: I didn't have time to chat with rural shop owners before, nor would I sit in a tent in the sparsely populated mountains⛰️ and listen to the rain.
+
+These experiences have constantly energized me for my high-pressure life. I enjoy this kind of life and I also want to share the joy of travel with everyone.
+
+In the current situation, I believe that our way of life and work can be changed to some extent without being limited to tradition.
+
+I also believe that life should not only be about pressure and depression, but should be the most romantic 24fps. At some point, you will meet the person you have always wanted to see, go to the place you have always wanted to go, and on a sunny and windy afternoon, as the breeze blows, you will shine in the time.
+
+
+
+
+
+
+
 
 
 ##### BUY ME A COFFEE
