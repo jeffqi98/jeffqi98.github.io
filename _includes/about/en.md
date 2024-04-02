@@ -33,6 +33,3 @@ If you find my article helpful or you want to support me, you can do so via the 
 **Alipay**
 ![Alipay](https://user-images.githubusercontent.com/125366043/230584963-adca64d8-68b3-48e9-ab63-c31eec8c1b43.JPG)
 
-**Wechat**
-![Wechat](https://user-images.githubusercontent.com/125366043/230584984-9d98b415-7e3a-495b-ba23-0ea2b003696c.JPG)
-
