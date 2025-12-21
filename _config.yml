@@ -1,11 +1,11 @@
 # Site settings
-title: Jeffrey Blog
-SEOTitle: Jeffrey Blog
+title: TokyoLab
+SEOTitle: TokyoLab
 header-img: img/home1.jpg
 email: jeffqijp@gmail.com
-description: "这里是 @jeffrey 的个人博客，与你一起发现更大的世界"
-keyword: "JeffreyChi, jeff, jeffqi, jeffrey, jeff的博客, Jeffrey Blog, 博客, 个人网站, 互联网, Web, 露营, Hike, Hiking, 生活"
-url: "https://jeffqi.org" # your host, for absolute URL
+description: "这里是 @tokyolab，与你一起发现更大的世界"
+keyword: "TokyoLab, tokyo, tokyolab, lab, tokyolaborg, TOKYOLAB, 博客, 个人网站, 互联网, Web, 露营, Hike, Hiking, 生活"
+url: "https://www.tokyolab.org" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -73,7 +73,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "G-RLW3TPTLVC" # Format: UA-xxxxxx-xx
-ga_domain: jeffqi.org
+ga_domain: tokyolab
 
 
 
