@@ -1,7 +1,34 @@
-                <!-- Language Selector -->
-                <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-                    <option value="0" selected> 中文 | Chinese </option>
-                    <option value="1"> 英文 | English </option>
-                  <option value="2"> 日本語 | Japanese </option>
-                </select>
+<!-- Language Selector -->
+<select class="sel-lang" onchange="onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 中文 | Chinese </option>
+    <option value="1"> 英文 | English </option>
+    <option value="2"> 日本語 | Japanese </option>
+</select>
 
+<script>
+  // 页面加载时默认显示中文
+  $(document).ready(function() {
+    $('.post-container').hide(); // 隐藏所有语言
+    $('.zh').show();             // 默认显示中文
+  });
+
+  // 语言切换函数
+  function onLanChange(index) {
+    $('.post-container').hide(); // 隐藏所有语言
+
+    if (index == '0') {
+        $('.zh').show();
+    } else if (index == '1') {
+        $('.en').show();
+    } else if (index == '2') {
+        $('.ja').show();
+    }
+  }
+</script>
+
+<style>
+/* 确保所有语言容器默认隐藏，由 JS 控制显示 */
+.post-container {
+    display: none;
+}
+</style>
