@@ -41,17 +41,11 @@
 {% if site.telegram_username %}
 <li>
   <a target="_blank" href="https://t.me/{{ site.telegram_username }}">
-    <span style="
-      display:inline-flex;
-      width:40px;
-      height:40px;
-      border-radius:50%;
-      background:#333;
-      align-items:center;
-      justify-content:center;
-    ">
+    <span class="fa-stack fa-lg telegram-icon">
+      <i class="fa fa-circle fa-stack-2x"></i>
       <img src="/img/telegram.svg"
-           style="width:18px;height:18px;filter:invert(1);">
+           class="fa-stack-1x"
+           style="filter:invert(1);">
     </span>
   </a>
 </li>
