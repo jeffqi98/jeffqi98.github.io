@@ -54,7 +54,7 @@ tags:
 
 ## 在哪里可以收听？
 
-![自由职业是自由吗？只是换了种方式瞎忙](jeffqi98.github.io/img/in-post/自由职业是自由吗？只是换了种方式瞎忙.png)
+![自由职业是自由吗？只是换了种方式瞎忙](http://jeffqi98.github.io/img/in-post/自由职业是自由吗？只是换了种方式瞎忙.png)
 
 👉 **收听链接（小宇宙）**  
 <https://www.xiaoyuzhoufm.com/episodes/6968d485109824f9e1a60a59>
