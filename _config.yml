@@ -20,8 +20,8 @@ RSS: false
 #facebook_username:  jeffqi
 #instagram_username: 
 twitter_username: tokyoxlab
-telegram_username: tokyo_lab
 youtube_username: !!str "@earth_f"
+telegram_username: tokyo_lab
 
 
 # Build settings
