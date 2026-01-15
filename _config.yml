@@ -17,9 +17,10 @@ RSS: false
 #zhihu_username: id
 #github_username: id
 #linkedin_username:  firstname-lastname-idxxxx
-x_username: jeffqiorg
 #facebook_username:  jeffqi
-#instagram_username: jeffqi
+#instagram_username: 
+twitter_username: tokyoxlab
+telegram_username: tokyo_lab
 youtube_username: !!str "@earth_f"
 
 
