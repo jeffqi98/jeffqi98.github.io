@@ -38,12 +38,13 @@
     </a>
   </li>
   {% endif %}
-     {% if site.telegram_username %}
+{% if site.telegram_username %}
 <li>
-  <a target="_blank" href="https://t.me/{{ site.telegram_username }}">
+  <a target="_blank" href="https://t.me/{{ site.telegram_username }}" title="Telegram Channel">
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fa fa-telegram fa-stack-1x fa-inverse"></i>
+      <img src="{{ '/img/telegram.svg' | prepend: site.baseurl }}"
+           style="width:18px;height:18px;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);filter:invert(1);">
     </span>
   </a>
 </li>
